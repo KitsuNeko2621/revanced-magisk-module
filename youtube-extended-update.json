@@ -1,6 +1,6 @@
 {
-  "version": "v19.47.53 (patches: 5.10.1)",
-  "versionCode": 86,
-  "zipUrl": "https://github.com/KitsuNeko2621/revanced-magisk-module/releases/download/86/youtube-revanced-extended-magisk-v19.47.53-all.zip",
+  "version": "v19.47.53 (patches: 5.11.1)",
+  "versionCode": 90,
+  "zipUrl": "https://github.com/KitsuNeko2621/revanced-magisk-module/releases/download/90/youtube-revanced-extended-magisk-v19.47.53-all.zip",
   "changelog": "https://raw.githubusercontent.com/KitsuNeko2621/revanced-magisk-module/update/build.md"
 }
